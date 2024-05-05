@@ -1,0 +1,120 @@
+{
+  "radionice": [
+    {
+      "id": "8a55",
+      "ime": "Express tečaj",
+      "opis": "Vrhunski",
+      "tema": "Express",
+      "tezina": "Senior",
+      "predavac": "Jure Vučko",
+      "datum": "2024-05-28",
+      "prijava": false
+    },
+    {
+      "id": "c33f",
+      "ime": "React Junior Dev",
+      "opis": "7tjedni tečaj",
+      "tema": "React",
+      "tezina": "Junior",
+      "predavac": "Marko Prodanović",
+      "datum": "2024-05-13",
+      "prijava": false
+    },
+    {
+      "id": "5bca",
+      "ime": "Next.js tečaj",
+      "opis": "U prostorijama edita",
+      "tema": "Next.js",
+      "tezina": "Mid",
+      "predavac": "Toni Puharić",
+      "datum": "2024-05-30",
+      "prijava": false
+    },
+    {
+      "id": "1561",
+      "ime": "React Senior Tečaj",
+      "opis": "Samo za seniore i one koji to žele postat",
+      "tema": "React",
+      "tezina": "Senior",
+      "predavac": "Jure Vučko",
+      "datum": "2024-06-12",
+      "prijava": false
+    }
+  ],
+  "predavaci": [
+    {
+      "id": "predavac_1",
+      "ime": "Ivan Lelas",
+      "biografija": "Profesor s FESBa",
+      "tema": "Express"
+    },
+    {
+      "id": "predavac_2",
+      "ime": "Marko Prodanović",
+      "biografija": "Profesor s PMFa",
+      "tema": "Next.js"
+    },
+    {
+      "id": "201c",
+      "ime": "Jure Vučko",
+      "biografija": "Student fesba",
+      "tema": "React"
+    },
+    {
+      "id": "8e7a",
+      "ime": "Toni Puharić",
+      "biografija": "Profesor s Aspire",
+      "tema": "Express"
+    },
+    {
+      "id": "e35d",
+      "ime": "Luka Okmažić",
+      "biografija": "Zaposlenik",
+      "tema": "Next.js"
+    }
+  ],
+  "tezine": [
+    {
+      "id": "junior",
+      "ime": "Junior"
+    },
+    {
+      "id": "mid",
+      "ime": "Mid"
+    },
+    {
+      "id": "senior",
+      "ime": "Senior"
+    }
+  ],
+  "teme": [
+    {
+      "id": "react",
+      "ime": "React"
+    },
+    {
+      "id": "express",
+      "ime": "Express"
+    },
+    {
+      "id": "next_js",
+      "ime": "Next.js"
+    }
+  ],
+  "administracija": [
+    {
+      "id": "bc31",
+      "date": "2024-05-05T13:08:15.815Z",
+      "title": "ODGODA",
+      "text": "U srijedu neće biti react tečaja",
+      "important": true
+    },
+    {
+      "id": "15ef",
+      "date": "2024-05-05T13:08:30.503Z",
+      "title": "Novost",
+      "text": "Kupili smo još jedan kompjuter!",
+      "important": false
+    }
+  ]
+}

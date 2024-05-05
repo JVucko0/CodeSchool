@@ -1,0 +1,19 @@
+#root {
+  margin: 0 ;
+  padding: 0;
+  width: 100%;
+}
+
+.app {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+}
+
+h2 {
+  border-bottom: 1px solid #b4b4b46f;
+}
